@@ -1,76 +1,49 @@
-# How to Contribute?
+# Contributing to WolfJobs!!
 
-## Reporting Bugs
-This section guides you through submitting a bug report. Following these guidelines helps maintainers and the community understand your report, reproduce the behavior, and find related reports.
+The following is a set of guidelines for contributing to 86 No More. We are open to suggestions to enhance our project.
 
-### How Do I Submit A (Good) Bug Report?
-Bugs are tracked as GitHub issues. After you've determined which repository your bug is related to, create an issue on that repository and provide the following information by filling in the template.
+## Table of Contents:
 
-Explain the problem and include additional details to help maintainers reproduce the problem:
+## How can I contribute?
+<ul>
+  <li><a href="#section1" >Reporting Bugs</a></li>
+  <li><a href="#section2">Suggesting Enhancements</a></li>
+  <li><a href="#section3">Pull Requests</a></li>
 
-* Use a clear and descriptive title for the issue to identify the problem.
-* Describe the exact steps which reproduce the problem in as many details as possible. For example, start by explaining how you started, e.g. which command exactly you used in the terminal. When listing steps, don't just say what you did, but explain how you did it. For example, if you moved the cursor to the end of a line, explain if you used the mouse, or a keyboard shortcut, and if so which one?
-* Provide specific examples to demonstrate the steps. Include links to files or GitHub projects, or copy/pasteable snippets, which you use in those examples. 
+</ul>
 
-## Labels Info
+## How can I contribute?
+<h3 id="section1"> Reporting bugs</h3>
+<p>This section guides you through submitting a bug report for 86 No More. </p>
 
-We have created labels for each issue for proper ordering and this will help you select an issue you would like to work on.
+When you are creating a bug report, please include as many details as possible to understand the issue.
+  
+  <b>How Do I Submit A Bug Report?</b>
+  Bugs are tracked as GitHub issues. After you've determined which repository your bug is related to, create an issue on that repository.
+  Explain the problem and include additional details to help maintainers reproduce the problem:
+  <ul>
+  <li><b>Use a clear and descriptive title</b> for the issue to identify the problem.</li>
+  <li><b>Provide specific examples to demonstrate the steps.</b> Include links to files or GitHub projects, or copy/pasteable snippets, which you use in those examples. If   you're providing snippets in the issue, use Markdown code blocks.</li>
+  <li><b>If the problem is related to performance or memory.</b></li>
+    <li><b>If the problem wasn't triggered by a specific action</b>, describe what you were doing before the problem happened and share more information using the guidelines below.</li>
+  </ul>
+  
+<h3 id="section2"> Suggesting Enhancements</h3>
+This section guides you through submitting a suggestion for 86 No More, including completely new features and minor improvements to existing functionality. 
 
-- The [`documentation` label](https://github.com/ashakhatri007/CSC510_Group25_Project1/projects/1?card_filter_query=label%3Adocumentation) is for problems regarding the entire documentation of this repo.
-
-- The [`enchancement` label](https://github.com/ashakhatri007/CSC510_Group25_Project1/projects/1?card_filter_query=label%3Aenhancement) is for problems regarding any new / existing feature additions to be made in the project.
-
-- The [`bug` label](https://github.com/ashakhatri007/CSC510_Group25_Project1/projects/1?card_filter_query=label%3Abug) is for problems related to any bugs or fixes than need to be taken care of.
-
-- The [`Good first issue` label](https://github.com/ashakhatri007/CSC510_Group25_Project1/projects/1?card_filter_query=label%3A%22good+first+issue%22) Indicates a good issue for first-time contributors.
-
-- The [`tests` label](https://github.com/ashakhatri007/CSC510_Group25_Project1/issues?q=is%3Aissue+is%3Aopen+label%3Atests) Adding missing tests or correcting existing tests
-
-## Suggesting Enhancements
-
-This section guides you through submitting an enhancement suggestion, including completely new features and minor improvements to existing functionality. Following these guidelines helps maintainers and the community understand your suggestion and find related suggestions.
-
-### How Do I Submit A (Good) Enhancement Suggestion?
-Enhancement suggestions are tracked as Github issues. After you have determined which repository your enhancement suggestion is related to, create an issue on that repository and provide the following information.
-
-* Use clear and descriptive title for the issue to identify the suggestion.
-* Provide a step-by-step description of the suggested enhancement in as many details as possible.
-* Provide specific examples to demonstrate the steps. Include copy/pasteable snippets which you use in those examples as Mardown code blocks.
-* Describe the current behavior and explain which behavior you expected to see instead and why.
-* Include screenshots and animated GIFs which help you demonstrate the steps or point out the part which the suggestion is related to.
-* Explain why this enhancement would be useful to most users and is not something that can or should be implemented as a community package.
-* List some other text editors or applications where this enhancement exists.
-* Specify the name and version of the OS you're using.
+Enhancement suggestions are tracked as GitHub issues. 
+After you've determined which repository your enhancement suggestion is related to, create an issue on that repository and provide the information like title, step-by-step description, specific examples.\
+Giving more detailed information will help us understand the suggestion better. 
+#### Provide details like 
+1) What is the enhancement? 
+2) Suggestions to implement the enhancement
 
 
-## Pull Requests
-The process described here has several goals:
-* Maintain quality
-* Fix problems that are important to users
-* Engage the community 
-* Enable a sustainable system to review contributions
+<h3 id="section3"> Pull Requests</h3>
 
-Please follow these steps to have your contribution considered by the maintainers:
-* Follow the styleguides
-* After you submit your pull request, verify that all status checks are passing
+The process described here has several goals: 
 
-While the prerequisites above must be satisfied prior to having your pull request reviewed, the reviewer(s) may ask you to complete additional design work, tests, or other changes before your pull request can be ultimately accepted.
-
-## Commit guide
-
-All commit messages must follow the [conventional commit specification](https://www.conventionalcommits.org/en/v1.0.0/). This helps others to easily understand commit logs and allows for automated changelog generation. Here's an example of a commit message that follows the conventional commit spec
-
-    feat: allow provided config object to extend other configs
-
-In general, the messages must follow the following syntax
-
-    <type>[optional scope]: <description>
-
-    [optional body]
-
-    [optional footer(s)]
-
-## Attribution
-This Contribution conduct was adapted from [Contributing to Atom][contrib].
-
-[contrib]: https://github.com/atom/atom/blob/master/CONTRIBUTING.md#how-can-i-contribute
+- Maintain 86 No More quality 
+- Fix problems that are important to users 
+- Engage the community in working toward the best possible 86 No More 
+- Enable a sustainable system for 86 No More's maintainers to review contributions

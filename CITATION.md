@@ -1,7 +1,20 @@
-## Zenodo Doi Badge:
+<a href="https://doi.org/10.5281/zenodo.5534872"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.5534872.svg" alt="DOI"></a>
 
-Het Thakkar, Divyank Gupta, Neelkanth Tripathi, Lorenz Scheller, Asha Khatri
+<a href="https://zenodo.org/record/5534872#.YVYLNZrMJPY">Zenodo DOI Link</a>
 
-Software Engineering Fall 2021 (Project 2)
+Link to frontend repository: https://github.com/shantanu109/WolfJobs \
+Link to backend repository: https://github.com/shantanu109/WolfJobsBackend
 
-[![DOI](https://zenodo.org/badge/416876176.svg)](https://zenodo.org/badge/latestdoi/416876176)
+### Authors
+
+ - Shantanu Pandey(spandey4@ncsu.edu)
+
+ - Sahil Rajesh Nande(snande@ncsu.edu)
+
+ - Leanne Serrao(lserrao@ncsu.edu)
+
+ - Varun Garg(vgarg4@ncsu.edu)
+
+ - Urmi Pathak(upathak@ncsu.edu)
+
+### License: MIT

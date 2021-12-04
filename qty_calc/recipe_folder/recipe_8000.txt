@@ -1,8 +1,0 @@
-db test recipe 2
-8000
-[cheese, 5534, 10, lbs]
-[rice, 7881, 5000, grams]
-[milk, 2003, 5000, mL]
-[butter, 2001, 100, lbs]
-[thing2, 7777, 10, kgs]
-[thing3, 1234, 10, liters]

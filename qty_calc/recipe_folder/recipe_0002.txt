@@ -1,7 +1,0 @@
-mystery blob
-0002
-[cheese, 5534, 8, lbs]
-[rice, 7881, 2, cups dry]
-[rice, 7881, 5, kgs]
-[milk, 2003, 9000, mL]
-[butter, 2001, 20, oz]

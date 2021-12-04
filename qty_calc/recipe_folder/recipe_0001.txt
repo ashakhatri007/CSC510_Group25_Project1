@@ -1,7 +1,0 @@
-horrific mush
-0001
-[cheese, 5534, 8, lbs]
-[rice, 7881, 5, kgs]
-[milk, 2003, 9000, mL]
-[butter, 2001, 20, oz]
-[blended sardines, 0019, 60, fl.oz]
